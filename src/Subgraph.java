@@ -1,4 +1,4 @@
-package ru.liamin.vladimir;
+package ru;
 
 import java.util.ArrayList;
 import java.util.List;

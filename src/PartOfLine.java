@@ -1,4 +1,4 @@
-package ru.liamin.vladimir;
+package ru;
 
 public class PartOfLine {
 

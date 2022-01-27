@@ -1,4 +1,4 @@
-package ru.liamin.vladimir;
+package ru;
 
 public class Statement {
     private String statement;

@@ -1,4 +1,4 @@
-package ru.liamin.vladimir;
+package ru;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
